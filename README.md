@@ -1,4 +1,4 @@
-# Project_2
+# Project 2
 
 # Instructions
 ## The instructions for this mini project are divided into the following subsections:
